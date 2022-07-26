@@ -5,10 +5,12 @@
 //  Created by Nathan Luksik on 5/26/21.
 //
 
-//current notes:
-//dynamic type stuff should be fixed for iphone...
-//need to edit default transition time to 10
-//need to do the keypad thing: auto-open to start time hr, have a "done" button with it?, auto move to next field (start time min, then end time hr, then end time min)
+//Notes for next update:
+//dynamic type -> create custom font -> set fixed font size
+//set default transition time to 10 -> >90% of pilots use 10 min transitory windows in-flight
+//create custom keypad: auto-open to start time hr, have a "done" button with it, auto move to next field...
+//                                                              ...(start time min, then end time hr, then end time min)
+
 
 import SwiftUI
 
